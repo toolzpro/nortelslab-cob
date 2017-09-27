@@ -1,2 +1,0 @@
-# nortelslab-cob
-cob
