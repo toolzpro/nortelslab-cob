@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square70x70logo src="https://cov.nortelslab.ru/mstile-70x70.png?v=Km2JPJ5PWy"/>
+            <square150x150logo src="https://cov.nortelslab.ru/mstile-150x150.png?v=Km2JPJ5PWy"/>
+            <square310x310logo src="https://cov.nortelslab.ru/mstile-310x310.png?v=Km2JPJ5PWy"/>
+            <TileColor>#36df39</TileColor>
+        </tile>
+    </msapplication>
+</browserconfig>
