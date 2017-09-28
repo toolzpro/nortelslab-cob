@@ -2152,7 +2152,7 @@ p {
 .section.main {
     margin-top: 73px;
     background-color: #1c1c1c;
-    background-image: url("./files/head_bg.svg");
+    background-image: url("https://cov.nortelslab.ru/files/head_bg.svg");
     background-position: 50% 50%;
     background-size: contain;
     background-repeat: no-repeat;
@@ -2597,7 +2597,7 @@ p {
     padding-top: 60px;
     padding-bottom: 60px;
     background-color: rgba(28, 28, 28, .96);
-    background-image: url("./files/zigzag_bg.png");
+    background-image: url("https://cov.nortelslab.ru/files/zigzag_bg.png");
     background-position: 50% 101%;
     background-size: contain;
     background-repeat: no-repeat;
@@ -2927,7 +2927,7 @@ p {
 }
 
 .column-3 {
-    background-image: url("./files/nortelslablogo.svg");
+    background-image: url("https://cov.nortelslab.ru/files/nortelslablogo.svg");
     background-position: 91% 50%;
     background-size: 80px;
     background-repeat: no-repeat;
