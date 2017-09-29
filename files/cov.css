@@ -523,7 +523,10 @@ template {
 .w-icon-slider-left:before {
     content: "\e601"
 }
-
+.hidden {
+    display: none;
+    visibility: hidden;
+}
 .w-icon-nav-menu:before {
     content: "\e602"
 }
