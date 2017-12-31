@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://cov.nortelslab.ru/sitemap.xml
+Host: https://cov.nortelslab.ru
